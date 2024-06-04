@@ -1,0 +1,5 @@
+pip install selenium
+pip install textwrap
+pip install playsound
+pip install tabulate
+pip install alive-progress
